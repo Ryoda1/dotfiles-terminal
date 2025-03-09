@@ -6,7 +6,7 @@ if status is-interactive
     alias xr="sudo dnf remove"
     alias xu="sudo dnf update"
 
-    alias ls='exa --color=always --icons --long --group-directories-first --git'
+    alias ls='exa --color=always --icons --grid --group-directories-first --git'
     alias pwd="ptpwd"
     alias cp="ptcp"
 
