@@ -11,37 +11,37 @@
     "modules": [
         {
             "key": "{$1}Distro",
-            "keyColor": "38;5;199",  // Розовый (Женственность)
+            "keyColor": "38;5;199",  
             "type": "os"
         },
         {
             "key": "{$1}Kernel",
-            "keyColor": "38;5;255",  // Белый (Нейтральность)
+            "keyColor": "38;5;255", 
             "type": "kernel"
         },
         {
             "key": "{$1}Shell",
-            "keyColor": "38;5;69",  // Голубой (Маскулинность)
+            "keyColor": "38;5;69", 
             "type": "shell"
         },
         {
             "key": "{$1}Packages",
-            "keyColor": "38;5;69",  // Голубой (Маскулинность)
+            "keyColor": "38;5;69",  
             "type": "packages"
         },
         {
             "key": "{$1}WM",
-            "keyColor": "38;5;255",  // Белый (Нейтральность)
+            "keyColor": "38;5;255",  
             "type": "wm"
         },
         {
             "key": "{$1}CPU",
-            "keyColor": "38;5;199",  // Розовый (Женственность)
+            "keyColor": "38;5;199",  )
             "type": "cpu"
         },
         {
             "key": "{$1}Memory",
-            "keyColor": "38;5;159",  // Пастельный фиолетовый (Фембои)
+            "keyColor": "38;5;159",  //  UwU
             "type": "memory"
         }
     ]
