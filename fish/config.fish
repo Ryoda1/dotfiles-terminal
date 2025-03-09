@@ -6,11 +6,10 @@ if status is-interactive
     alias xr="sudo dnf remove"
     alias xu="sudo dnf update"
 
-    alias ls="ptls"
+    alias ls='exa --color=always --icons --long --group-directories-first --git'
     alias pwd="ptpwd"
     alias cp="ptcp"
 
     alias e="nvim"
     alias se="sudo -E -s nvim"
 end
-
