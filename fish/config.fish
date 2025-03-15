@@ -8,7 +8,7 @@ if status is-interactive
     alias xh="dnf --help"
 
     alias ls='exa --color=always --icons --grid --group-directories-first --git'
-    alias pwd="pass"
+    alias pwd="echo $PWD"
 
     alias e="nvim"
     alias se="sudo -E -s nvim"
