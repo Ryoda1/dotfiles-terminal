@@ -15,6 +15,11 @@
       "key": " ",
       "format": "{2}"
     },
+     {
+  "type": "packages",
+  "key": " ",
+  "format": "{1}"
+   },
     {
       "type": "shell",
       "key": " ",
@@ -28,7 +33,7 @@
     {
       "type": "terminal",
       "key": " ",
-      "format": "{1}"
+      "format": "{5}"
     },
     {
       "type": "cpu",
