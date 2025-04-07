@@ -15,11 +15,11 @@
       "key": " ",
       "format": "{2}"
     },
-     {
-  "type": "packages",
-  "key": " ",
-  "format": "{1}"
-   },
+    {
+     "type": "packages",
+     "key": " ",
+     "format": "{1}"
+    },
     {
       "type": "shell",
       "key": " ",
